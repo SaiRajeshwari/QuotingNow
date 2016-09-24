@@ -1,0 +1,20 @@
+{
+
+"manifest_version": 2,
+"name": "Quoting Now",
+"description": "Shows quote for the day",
+"version": "1.0",
+"default_locale": "en",
+
+"browser_action": {
+"default_icon": "Logo.png",
+"default_popup": "popup.html"
+},
+
+
+"permissions": [
+"activeTab"
+]
+
+
+}
